@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>contact_Form</class>
+ <widget class="QWidget" name="contact_Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>590</width>
+    <height>379</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <family>阿里巴巴普惠体 2.0 55 Regular</family>
+    <pointsize>13</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>联系方式</string>
+  </property>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>162</y>
+     <width>530</width>
+     <height>190</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>微信（WeChat））</string>
+   </property>
+   <widget class="QLabel" name="bg8ixz_wechat_code">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>30</y>
+      <width>150</width>
+      <height>150</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>微信二维码</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg8ixz_wechat_code_2">
+    <property name="geometry">
+     <rect>
+      <x>193</x>
+      <y>30</y>
+      <width>150</width>
+      <height>150</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>微信二维码</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg8ixz_wechat_code_3">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>30</y>
+      <width>150</width>
+      <height>150</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>微信二维码</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QGroupBox" name="groupBox_2">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>20</y>
+     <width>530</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>联系邮箱</string>
+   </property>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>24</y>
+      <width>491</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>阿里巴巴普惠体 2.0 45 Light</family>
+      <pointsize>11</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;BG8IXZ - bg8ixz@hotmail.com&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;BG8LAK - bg8lak@hotmail.com&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;BD7EM - bd7em@hotmail.com&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
